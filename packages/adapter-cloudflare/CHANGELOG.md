@@ -1,5 +1,11 @@
 # @sveltejs/adapter-cloudflare
 
+## 4.0.0
+
+### Major Changes
+
+- breaking: generate plaintext 404.html instead of SPA-style fallback page ([#11596](https://github.com/sveltejs/kit/pull/11596))
+
 ## 3.0.2
 
 ### Patch Changes
